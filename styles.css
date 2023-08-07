@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font: 1rem / 1.5 sans-serif;
+  }
+  
+  main {
+    margin: 6rem auto;
+    width: 95%;
+    max-width: 75ch;
+    font-size: 1.125rem;
+  }
+  
+  h1 {
+    font: 600 1.875rem/1.25 MuseoModerno, sans-serif;
+    color: #191919;
+    text-align: center;
+  }
+  
+  h2 {
+    font: 400 1.875rem/1.25 MuseoModerno, sans-serif;
+    color: #191919;
+    text-align: center;
+  }
+
+  .btn1 {
+    position: absolute;
+    top:25%;
+    left: 45.5%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn1:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
+
+  .btn2 {
+    position: absolute;
+    top:45%;
+    left: 45.5%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn2:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
+
+  .btn3 {
+    position: absolute;
+    top:65%;
+    left: 45.5%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn3:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
+
+  .btn4 {
+    position: absolute;
+    top:85%;
+    left: 42.5%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn4:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
