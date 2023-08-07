@@ -52,5 +52,5 @@
   /* Style the image inside the centered container, if needed */
   .centered img {
     width: 300px;
-    border-radius: 0%;
+    border-radius: 10%;
   }
