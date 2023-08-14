@@ -101,7 +101,7 @@ body {
   .btn5 {
     position: absolute;
     top:105%;
-    left: 44%;
+    left: 33%;
     background-color: #191919;
     color: #2ecc71;
     border-width: 2px;
@@ -112,6 +112,25 @@ body {
   }
   
   .btn5:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
+
+  .btn6 {
+    position: absolute;
+    top:105%;
+    left: 55%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn6:hover {
     background-color: #2ecc71;
     color: #191919;
     transition: 0.5s;
