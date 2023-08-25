@@ -25,7 +25,7 @@ body {
   .btn1 {
     position: absolute;
     top:25%;
-    left: 45.5%;
+    left: 30%;
     background-color: #191919;
     color: #2ecc71;
     border-width: 2px;
@@ -43,8 +43,8 @@ body {
 
   .btn2 {
     position: absolute;
-    top:45%;
-    left: 45.5%;
+    top:25%;
+    left: 45%;
     background-color: #191919;
     color: #2ecc71;
     border-width: 2px;
@@ -62,8 +62,8 @@ body {
 
   .btn3 {
     position: absolute;
-    top:65%;
-    left: 45.5%;
+    top:25%;
+    left: 60%;
     background-color: #191919;
     color: #2ecc71;
     border-width: 2px;
@@ -81,8 +81,8 @@ body {
 
   .btn4 {
     position: absolute;
-    top:85%;
-    left: 45.8%;
+    top:45%;
+    left: 30.3%;
     background-color: #191919;
     color: #2ecc71;
     border-width: 2px;
@@ -100,8 +100,8 @@ body {
   
   .btn5 {
     position: absolute;
-    top:105%;
-    left: 33%;
+    top:45%;
+    left: 43.5%;
     background-color: #191919;
     color: #2ecc71;
     border-width: 2px;
@@ -119,8 +119,8 @@ body {
 
   .btn6 {
     position: absolute;
-    top:105%;
-    left: 55%;
+    top:45%;
+    left: 58.5%;
     background-color: #191919;
     color: #2ecc71;
     border-width: 2px;
@@ -138,8 +138,8 @@ body {
 
   .btn7 {
     position: absolute;
-    top:125%;
-    left: 45.8%;
+    top:65%;
+    left: 30.3%;
     background-color: #191919;
     color: #2ecc71;
     border-width: 2px;
@@ -150,6 +150,25 @@ body {
   }
   
   .btn7:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
+
+  .btn8 {
+    position: absolute;
+    top:65%;
+    left: 44.7%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn8:hover {
     background-color: #2ecc71;
     color: #191919;
     transition: 0.5s;
