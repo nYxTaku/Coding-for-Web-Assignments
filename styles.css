@@ -173,3 +173,59 @@ body {
     color: #191919;
     transition: 0.5s;
   }
+  .btn9 {
+    position: absolute;
+    top:65%;
+    left: 60.3%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn9:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
+
+  .btn10 {
+    position: absolute;
+    top:85%;
+    left: 37%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn10:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
+
+  .btn11 {
+    position: absolute;
+    top:85%;
+    left: 54%;
+    background-color: #191919;
+    color: #2ecc71;
+    border-width: 2px;
+    border-color: #191919;
+    border-radius: 20px;
+    box-shadow: 3px 3px #191919;
+    padding: 30px;
+  }
+  
+  .btn11:hover {
+    background-color: #2ecc71;
+    color: #191919;
+    transition: 0.5s;
+  }
